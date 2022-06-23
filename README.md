@@ -5,5 +5,3 @@ The project “Library management System” is developed with using Python as fr
 This system mainly focuses on basic operations of library like login, register, adding and deleting new member, new book, updating new information, searching books and members to issue and return book.
 
 It is simple project for academic purpose.
-
-Website Link: https://merabharatmahan.netlify.app
